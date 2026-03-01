@@ -57,6 +57,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | AI Assemble! Build your own private Development Team | Heath Kesler | [PDF](2026-02-26/AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf) |
 | From the Crypt to the Code | Ramona Schwering | [PDF](2026-02-26/crypt_to_code-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
 | Redefining Code Review with AI | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-26/Redefining-Code-Review-with-AI_ErikBeaulieu.pdf) |
+| Insights on Context & Memory for a Supportive Assistant | [Cedric L'homme](https://github.com/rangzen) | [PDF](2026-02-26/insights_on_context_and_memory_for_a_supportive_assistant-cedric_lhomme.pdf) |
 
 ## February 27
 
