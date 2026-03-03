@@ -60,7 +60,9 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | From the Crypt to the Code | Ramona Schwering | [PDF](2026-02-26/crypt_to_code-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
 | Redefining Code Review with AI | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-26/Redefining-Code-Review-with-AI_ErikBeaulieu.pdf) |
 | Insights on Context & Memory for a Supportive Assistant | [Cedric L'homme](https://github.com/rangzen) | [PDF](2026-02-26/insights_on_context_and_memory_for_a_supportive_assistant-cedric_lhomme.pdf) |
+| Full Stack AI Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-26/Full_Stack_AI_Security-Jonathan_Marcil.pdf) |
 | How we failed at Event Sourcing | Louis Beaudoin-Allaire | [PDF](2026-02-26/how_we_failed_at_event_sourcing-louis_beaudoin_allaire.pdf) |
+
 
 ## February 27
 
@@ -82,4 +84,5 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
 | La qualité des données, un objectif atteignable? | Sherif Behna | [PDF](2026-02-27/qualite_donnees-sherif_behna.pdf) |
 | Event Sourcing without Dogma | Ralf Westphal | [PDF with link to whiteboard](2026-02-27/Event_Sourcing_without_dogma-Ralf_Westphal.pdf) |
+| Practical LLM Use Cases for Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-27/Practical_LLM_Use_Cases_for_Security-Jonathan_Marcil.pdf) |
 | Developers should choose team structure, not managers | Louis Beaudoin-Allaire | [PDF](2026-02-27/developers_should_choose_team_structure-louis_beaudoin_allaire.pdf) |
