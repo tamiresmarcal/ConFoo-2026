@@ -84,6 +84,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Mental Models and Heuristics | Marc-Antoine Aubé | [Slides](https://speakerdeck.com/marcaube/mental-models-and-heuristics) |
 | Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
 | Agentic Coding: Building Features with AI Teammates | [Rida Al Barazi](https://rida.me) | [PDF](2026-02-27/agentic_coding-rida_al_barazi.pdf) |
+| Java Streams and Caffeine Dreams | Mikaël Francoeur| [PDF](2026-02-27/Mikael_Francoeur_Streams.pdf)|
 | Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf) |
 | Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
 | Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
