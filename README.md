@@ -41,6 +41,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| Explainable Al (XAI) - Where to Begin | [Tamires Marcal](https://tamiresmarcal.github.io/) | [PDF](2026-02-26/Explainable_Al_XAI_Where_to_Begin-Tamires_Marcal.pdf) |
 | /^[Rr]eg(ular\s)?[Ee]x(p\|pressions?)?$/ | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-26/Regular_Expressions-Jordan_Kasper.pdf) |
 | From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](2026-02-26/chip8-emulation.pdf) |
 | GraphQL Distilled | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/) |
@@ -75,6 +76,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 | Presentation Title | Speaker Name | Content |
 | ------------------ | ------------ | ------- |
+| Human Intelligence vs Artificial Intelligence | [Tamires Marcal](https://tamiresmarcal.github.io/) | [PDF](2026-02-27/Human_Intelligence_vs_Artificial_Intelligence-Tamires_Marcal.pdf) |
 | A web for anyone, anywhere, anytime | Rowdy Rabouw | [Slides (PDF)](2026-02-27/A_web_for_anyone_anywhere_anytime_Rowdy_Rabouw.pdf) |
 | Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
 | From Mosaic to Modern: The Evolution of Web App Architectures | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/) |
